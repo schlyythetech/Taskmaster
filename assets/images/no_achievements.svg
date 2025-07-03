@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <style>
+    .st0{fill:#f0f0f0;}
+    .st1{fill:#e0e0e0;}
+    .st2{fill:#d0d0d0;}
+    .st3{fill:#6c757d;}
+    .st4{fill:none;stroke:#6c757d;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+  </style>
+  <circle class="st0" cx="100" cy="100" r="90"/>
+  <g>
+    <path class="st1" d="M130,130H70c-5.5,0-10-4.5-10-10V80c0-5.5,4.5-10,10-10h60c5.5,0,10,4.5,10,10v40C140,125.5,135.5,130,130,130z"/>
+    <circle class="st2" cx="100" cy="60" r="20"/>
+    <path class="st3" d="M110,58c0,1.1-0.9,2-2,2h-16c-1.1,0-2-0.9-2-2v-1c0-1.1,0.9-2,2-2h16c1.1,0,2,0.9,2,2V58z"/>
+    <path class="st3" d="M110,65c0,1.1-0.9,2-2,2h-16c-1.1,0-2-0.9-2-2v-1c0-1.1,0.9-2,2-2h16c1.1,0,2,0.9,2,2V65z"/>
+    <circle class="st3" cx="100" cy="60" r="8"/>
+    <path class="st2" d="M92,80l8-15 8,15"/>
+    <line class="st4" x1="80" y1="90" x2="120" y2="90"/>
+    <line class="st4" x1="75" y1="100" x2="125" y2="100"/>
+    <line class="st4" x1="85" y1="110" x2="115" y2="110"/>
+    <circle class="st2" cx="70" cy="95" r="8"/>
+    <circle class="st2" cx="130" cy="95" r="8"/>
+    <circle class="st2" cx="65" cy="115" r="6"/>
+    <circle class="st2" cx="135" cy="115" r="6"/>
+  </g>
+</svg> 

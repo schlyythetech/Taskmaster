@@ -1,0 +1,14 @@
+{
+    "name": "taskmaster/app",
+    "description": "TaskMaster - Project Management Application",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
